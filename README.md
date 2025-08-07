@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kiran Kumar B
 
-🎯 **Senior Software Engineer** | 🛠️ Go, Blockchain (Hyperledger Fabric), gRPC, REST APIs, Fintech, IoT Systems  
+🎯 **Senior Software Engineer** | 🛠️ Go, Blockchain (Hyperledger Fabric), gRPC, REST APIs, FinTech, IoT Systems  
 📍 Bengaluru, India | 📧 bkiran6398@gmail.com | 📞 +91 8892312311  
 🔗 [LinkedIn](https://www.linkedin.com/in/bkiran6398) | 🌐 [GitHub](https://github.com/bkiran6398)
 
