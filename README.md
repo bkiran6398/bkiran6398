@@ -20,25 +20,25 @@ With a passion for clean code, system design, and new-age tech like **IoT**, **F
 - **Go** | Python | JavaScript (Node.js)
 
 ### 🗃️ Databases  
-- MongoDB | PostgreSQL | Redis | InfluxDB
+- **MongoDB** | **PostgreSQL** | Redis | InfluxDB
 
 ### ⚙️ Tools & Platforms  
-- Git | Docker | Linux | Nginx | Systemd
+- **Git** | **Docker** | Linux | Nginx | Systemd
 
 ### 📚 Frameworks & Libraries  
-- gRPC-Go | Gorilla Toolkit | GoSwagger | Flask
+- **gRPC-Go** | **Gorilla Toolkit** | **GoSwagger** | Flask
 
 ### 📡 Communication Protocols  
-- gRPC | REST | Socket.IO
+- **gRPC** | **REST** | Socket.IO
 
 ### ☁️ Cloud & Infra  
-- AWS | Azure
+- **AWS** | Azure
 
 ### 🔄 Message Brokers  
-- MQTT | Kafka
+- **MQTT** | Kafka
 
 ### 🧭 Domain Expertise  
-- Blockchain | IoT | FinTech
+- **Blockchain** | **IoT** | FinTech
 
 ---
 
@@ -46,23 +46,23 @@ With a passion for clean code, system design, and new-age tech like **IoT**, **F
 
 ### 🟢 **Senior Software Engineer** | CoffeeBeans Technologies  
 *Dec 2022 – Present | Bengaluru*  
-- Tripled transaction throughput by optimizing concurrency and architecture in Hyperledger Fabric fork.  
-- Migrated legacy fintech systems to private blockchain with inter-org gRPC BiDi streams.  
-- Built BFF APIs, automated workflows (Jenkins, Airflow), and conducted benchmarking across orgs.
+- Tripled transaction throughput by optimizing concurrency and architecture in **Hyperledger Fabric fork**.  
+- Migrated legacy fintech systems to **private blockchain** with inter-org **gRPC BiDi streams**.  
+- Built BFF APIs, automated workflows **(Jenkins, Airflow)**, and conducted benchmarking across orgs.
 
 ### 🟠 **Senior Software Developer** | Cloudworx Studio  
 *Nov 2020 – Dec 2022 | Bengaluru*  
-- Designed Go and Python microservices with secure auth (JWT, OAuth2) and cloud integrations (S3, Blob).  
-- Created real-time IoT dashboards using MQTT, Websockets, and event-based daemons.  
-- Built Alexa Skills, Google Actions, CLI tools for display controls, and Dockerized deployments on EC2.
+- Designed Go and Python **microservices** with secure auth **(JWT, OAuth2)** and cloud integrations **(S3, Blob)**.  
+- Created real-time IoT dashboards using **MQTT, Websockets**, and event-based daemons.  
+- Built **Alexa Skills, Google Actions, CLI tools** for display controls, and Dockerized deployments on **EC2**.
 
 ### 🔵 **Software Engineering Associate** | Amdocs  
 *Oct 2019 – Oct 2020 | Pune*  
-- Built ML classifier for incident management. Automated CRM/OMS tasks using Python scripting.
+- Built ML classifier for incident management. Automated CRM/OMS tasks using **Python scripting**.
 
 ### 🟡 **Technical Instructor** | Explore Eklavya Consultancy  
 *Sep 2017 – Jun 2019 | Tumkur*  
-- Led hands-on embedded systems workshops with Arduino, Raspberry Pi, and taught Python/C.
+- Led hands-on embedded systems workshops with **Arduino, Raspberry Pi**, and taught Python/C.
 
 ---
 
