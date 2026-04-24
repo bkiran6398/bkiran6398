@@ -1,5 +1,5 @@
 {
-  "client_id": "https://raw.githubusercontent.com/bkiran6398/bkiran6398/refs/heads/main/cimd_client.json",
+  "client_id": "https://raw.githubusercontent.com/bkiran6398/bkiran6398/refs/heads/main/cimd_client",
   "redirect_uris": [
     "https://github.com/"
   ],
