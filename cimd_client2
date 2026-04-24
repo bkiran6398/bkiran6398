@@ -6,5 +6,6 @@
   "client_name": "CimdClient2",
   "client_uri": "https://github.com/",
   "logo_uri": "https://github.com/logo.png",
-  "jwks_uri": "https://github.com/keys.json"
+  "jwks_uri": "https://github.com/keys.json",
+  "grant_types": ["refresh_token"]
 }
