@@ -1,0 +1,10 @@
+{
+  "client_id": "https://github.com/bkiran6398/test_cimd.json",
+  "redirect_uris": [
+    "https://github.com/"
+  ],
+  "client_name": "TestCimd",
+  "client_uri": "https://github.com/",
+  "logo_uri": "https://github.com/logo.png",
+  "jwks_uri": "https://github.com/keys.json"
+}
