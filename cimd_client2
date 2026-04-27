@@ -2,11 +2,11 @@
   "client_id": "https://raw.githubusercontent.com/bkiran6398/bkiran6398/refs/heads/main/cimd_client2",
   "redirect_uris": [
     "https://github.com/",
-    "https://updated1.com/"
+    "https://updated2.com/"
   ],
-  "client_name": "CimdClient2_updated1",
-  "client_uri": "https://updated1.com/",
-  "logo_uri": "https://updated1.com/logo.png",
-  "jwks_uri": "https://updated1.com/keys.json",
+  "client_name": "CimdClient2_updated2",
+  "client_uri": "https://updated2.com/",
+  "logo_uri": "https://updated2.com/logo.png",
+  "jwks_uri": "https://updated2.com/keys.json",
   "grant_types": ["refresh_token", "authorization_code"]
 }
