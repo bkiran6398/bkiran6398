@@ -8,5 +8,5 @@
   "client_uri": "https://updated2.com/",
   "logo_uri": "https://updated2.com/logo.png",
   "jwks_uri": "https://updated2.com/keys.json",
-  "grant_types": ["refresh_token", "authorization_code"]
+  "grant_types": ["authorization_code"]
 }
